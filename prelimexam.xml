@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<food>
+    <breakfast> 
+        <name>Tapsilog</name>
+            <main_ingredient>
+                <porkLiempo>
+                    <marinated>
+                        Oyster sauce
+                        Calamnasi
+                        Pepper
+                        Magic Sarap
+                    </marinated>
+                </porkLiempo>
+                <ingredients>Sinangag</ingredients>
+                <ingredients>Itlog</ingredients>
+            </main_ingredient>
+                <carbs>50g</carbs>
+                <fat>20g</fat>
+                <protein>7g</protein>
+                <description>Tapsilog a popular Filipino meal</description>
+    </breakfast>
+    <junkfood>
+        <pizza>
+            <Domino_Pizza>
+                <Flavor>
+                    <Hawaiian>
+                        <Ingredients>
+                            Pineapple
+                            Dough
+                            olive oil
+                            Pizza sauce
+                            Ham
+                            Cheese
+                        </Ingredients>
+                    </Hawaiian>
+                </Flavor>
+            </Domino_Pizza>
+        </pizza>
+    </junkfood>
+    <lunch>
+        <made_in_philippines>
+            <dish>
+                <name> 
+                    <adobo>
+                        <ingredients>
+                            Chicken
+                            Soy sauce
+                            Pepper
+                            oil
+                            Potato
+                            Magic Sarap
+                            Vinegar
+                        </ingredients>
+                    </adobo>
+                </name>
+            </dish>
+        </made_in_philippines>
+    </lunch>
+    <miryenda>
+        <Banana_Cue>
+                <nutrients>
+                    Vitamin A, Vitamin B, Vitamin C
+                </nutrients>
+                <ingredients>
+                    <sugar>
+                        <made>
+                            Sugar Cane
+                        </made>
+                    </sugar>
+                    <Banana>Saba</Banana>
+                </ingredients>
+        </Banana_Cue>
+    </miryenda>
+    <Dinner>
+        <History_of_Adobo>
+            <Originated>
+                <Philippines>
+                    <Spanish_Term>
+                        adobar
+                    </Spanish_Term>
+                </Philippines>
+            </Originated>
+        </History_of_Adobo>
+        <description>First cooking method of adobo is salt and vinigar</description>    
+    </Dinner>
+    <midnight_snack>
+        <soft_drinks>
+            <chips>
+                <pasta>
+                    <categories>
+                        Pancit Cantoon
+                        Spaghetti
+                        Pancit
+                    </categories>
+                </pasta>
+            </chips>
+        </soft_drinks>
+    </midnight_snack>
+</food>
